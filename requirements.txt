@@ -1,0 +1,11 @@
+stremlit
+pandas
+urlextract
+matplotlib
+numpy
+wordcloud
+emoji
+seaborn
+nltk
+collections
+pip freeze > requirements.txt
